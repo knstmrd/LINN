@@ -1,4 +1,4 @@
-A list of various (interesting and not necessarily practical) things done with neural networks. Open for suggestions and additions.
+List of Interesting Neural Networks: A list of various (interesting and not necessarily practical) things done with neural networks. Open for suggestions and additions.
 
 # Images
 
