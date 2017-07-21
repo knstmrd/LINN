@@ -13,6 +13,7 @@ List of Interesting Neural Networks: A list of various (interesting and not nece
 * [NSynth (Blog Post)](https://magenta.tensorflow.org/nsynth) (code available [here](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth); also check out this [online playable version](https://aiexperiments.withgoogle.com/sound-maker/view/))
 * [Generating sound using RNNs](https://github.com/johnglover/sound-rnn)
 * [Audio Style Transfer](https://github.com/DmitryUlyanov/neural-style-audio-tf) (original code uses TensorFlow, other variants include [Torch](https://github.com/DmitryUlyanov/neural-style-audio-torch) and [Lasagne](https://github.com/vadim-v-lebedev/audio_style_tranfer))
+* [Performance RNN (Blog Post)](https://magenta.tensorflow.org/performance-rnn) (code available [here](https://github.com/tensorflow/magenta/tree/master/magenta/models/performance_rnn))
 
 # Video
 
