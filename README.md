@@ -9,6 +9,7 @@ List of Interesting Neural Networks: A list of various (interesting and not nece
 
 # Audio
 
+* [[Overview of] Neural Nets for Generating Music (Blog Post)](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
 * [WaveNet (Blog Post)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) (code: a [Fast TensorFlow implementation](https://github.com/tomlepaine/fast-wavenet), a [Keras implementation](https://github.com/basveeling/wavenet), a [TensorFlow implementation](https://github.com/ibab/tensorflow-wavenet))
 * [NSynth (Blog Post)](https://magenta.tensorflow.org/nsynth) (code available [here](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth); also check out this [online playable version](https://aiexperiments.withgoogle.com/sound-maker/view/))
 * [Generating sound using RNNs](https://github.com/johnglover/sound-rnn)
