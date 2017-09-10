@@ -10,7 +10,8 @@ List of Interesting Neural Networks: A list of various (interesting and not nece
 # Audio
 
 * [[Overview of] Neural Nets for Generating Music (Blog Post)](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
-* [WaveNet (Blog Post)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) (code: a [Fast TensorFlow implementation](https://github.com/tomlepaine/fast-wavenet), a [Keras implementation](https://github.com/basveeling/wavenet), a [TensorFlow implementation](https://github.com/ibab/tensorflow-wavenet))
+* [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/abs/1709.01620)
+* [WaveNet (Blog Post)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) (code: a [Fast TensorFlow implementation](https://github.com/tomlepaine/fast-wavenet), a [Keras implementation](https://github.com/basveeling/wavenet), a [TensorFlow implementation](https://github.com/ibab/tensorflow-wavenet)), a [PyTorch implementation](https://github.com/vincentherrmann/pytorch-wavenet) (seems abandoned, though), an [in-progress PyTorch port of the Fast Tensorflow WaveNet](https://github.com/dhpollack/fast-wavenet.pytorch/tree/master/wavenet)
 * [NSynth (Blog Post)](https://magenta.tensorflow.org/nsynth) (code available [here](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth); also check out this [online playable version](https://aiexperiments.withgoogle.com/sound-maker/view/))
 * [Generating sound using RNNs](https://github.com/johnglover/sound-rnn)
 * [Audio Style Transfer](https://github.com/DmitryUlyanov/neural-style-audio-tf) (original code uses TensorFlow, other variants include [Torch](https://github.com/DmitryUlyanov/neural-style-audio-torch) and [Lasagne](https://github.com/vadim-v-lebedev/audio_style_tranfer))
