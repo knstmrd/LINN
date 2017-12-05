@@ -6,6 +6,7 @@ List of Interesting Neural Networks: A list of various (interesting and not nece
 * [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
 * [Pix2Pix](https://github.com/phillipi/pix2pix) (see also [CycleGAN](https://github.com/junyanz/CycleGAN) for code which makes use of Generative Adversarial Networks; original implementation is in Torch, a [TensorFlow version](https://github.com/affinelayer/pix2pix-tensorflow) is available; also take a look at the [online version](https://affinelayer.com/pixsrv/) for some nightmarish cats, weird handbags and shoes, along with building facades)
 * [DeepDream](https://github.com/google/deepdream)
+* [PyTorch Implementation of the Coupled GAN algorithm for Unsupervised Image-to-Image Translation](https://github.com/mingyuliutw/UNIT)
 
 # Audio
 
